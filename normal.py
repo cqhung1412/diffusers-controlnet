@@ -1,3 +1,4 @@
+# https://huggingface.co/lllyasviel/sd-controlnet-normal
 from PIL import Image
 from transformers import pipeline
 import numpy as np

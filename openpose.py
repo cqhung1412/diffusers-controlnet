@@ -1,3 +1,4 @@
+# https://huggingface.co/lllyasviel/sd-controlnet-openpose
 from PIL import Image
 from diffusers import StableDiffusionControlNetPipeline, ControlNetModel, UniPCMultistepScheduler
 import torch

@@ -1,3 +1,4 @@
+#https://huggingface.co/lllyasviel/sd-controlnet-canny
 import cv2
 from PIL import Image
 from diffusers import StableDiffusionControlNetPipeline, ControlNetModel, UniPCMultistepScheduler

@@ -1,3 +1,4 @@
+# https://huggingface.co/lllyasviel/sd-controlnet-seg
 from transformers import AutoImageProcessor, UperNetForSemanticSegmentation
 from PIL import Image
 import numpy as np

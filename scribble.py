@@ -1,3 +1,4 @@
+# https://huggingface.co/lllyasviel/sd-controlnet-scribble
 from PIL import Image
 from diffusers import StableDiffusionControlNetPipeline, ControlNetModel, UniPCMultistepScheduler
 import torch

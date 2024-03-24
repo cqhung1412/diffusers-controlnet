@@ -1,3 +1,4 @@
+# https://huggingface.co/lllyasviel/sd-controlnet-depth
 from transformers import pipeline
 from diffusers import StableDiffusionControlNetPipeline, ControlNetModel, UniPCMultistepScheduler
 from PIL import Image
