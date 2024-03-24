@@ -18,6 +18,12 @@ source ./env/bin/activate
 pip install -r requirements.txt
 ```
 
+or this
+
+```bash
+bash entrypoint.sh
+```
+
 ## How to run
 
 - Choose a ControlNet model, i.e. canny edge in canny.py
